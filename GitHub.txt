@@ -1,0 +1,4 @@
+Git, a software to keep track of changes in files, directory, and stuffs.
+GitHub is a place to store repositories (place to store files and stuffs).
+Git is a standalone tool, GitHub is not the only one to host Gits.
+To use git with GitHub, you can find applications providing GUI and CLI.
